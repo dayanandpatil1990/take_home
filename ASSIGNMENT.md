@@ -1,4 +1,4 @@
-### 1. Moderate: Distributed Network Telemetry Processing & Anomaly Detection
+### 1. Distributed Network Telemetry Processing & Anomaly Detection
 
 **Time Estimate:** 3-5 hours
 
