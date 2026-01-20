@@ -22,7 +22,7 @@ A distributed system for processing network telemetry data in real-time, perform
 
 ⏱️ **Time Estimate**: 3-5 hours
 
-🛠️ **Tech Stack (Suggestions):** Python 3.10+, FastAPI, Redis Streams, Docker Compose (suggested)
+🛠️ **Tech Stack (Suggestions):** Python 3.10+, FastAPI, Redis Streams, Docker Compose
 
 ## Need Help?
 
